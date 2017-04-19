@@ -1,0 +1,9 @@
+/Users/DELPIN/Projects/XamariniOSStepper/XamariniOSStepper/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/DELPIN/Projects/XamariniOSStepper/XamariniOSStepper/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamariniOSStepper/XamariniOSStepper/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/DELPIN/Projects/XamariniOSStepper/XamariniOSStepper/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamariniOSStepper/XamariniOSStepper/obj/iPhoneSimulator/Debug/optimized/
+/Users/DELPIN/Projects/XamariniOSStepper/XamariniOSStepper/bin/iPhoneSimulator/Debug/XamariniOSStepper.exe.mdb
+/Users/DELPIN/Projects/XamariniOSStepper/XamariniOSStepper/bin/iPhoneSimulator/Debug/XamariniOSStepper.exe
+/Users/DELPIN/Projects/XamariniOSStepper/XamariniOSStepper/obj/iPhoneSimulator/Debug/XamariniOSStepper.exe
+/Users/DELPIN/Projects/XamariniOSStepper/XamariniOSStepper/obj/iPhoneSimulator/Debug/XamariniOSStepper.exe.mdb
